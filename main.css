@@ -301,6 +301,7 @@ body {
 @media (max-width: 365px) {
   .four,
   .text-box {
+    height: auto;
     margin-top: -12vh;
   }
 }
