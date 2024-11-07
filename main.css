@@ -298,7 +298,7 @@ body {
   }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 365px) {
   .four,
   .text-box {
     margin-top: -12vh;
